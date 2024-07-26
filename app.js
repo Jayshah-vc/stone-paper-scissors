@@ -39,4 +39,4 @@ choices.forEach((choice) => {
         playGame(userChoice);
     });    
 });
-
+};
